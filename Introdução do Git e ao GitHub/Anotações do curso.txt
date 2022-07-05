@@ -12,8 +12,12 @@
   4 - Ctrl + l: limpar terminal
   5 - ls -a: mostrar arquios ocultos
   6 - git status: olhas os arquivos presentes na pasta
-  7 - git clone ( copia do repositorio 
+  7 - git clone ( cole a web URL): faz um clone do repositório escolhido.
+
 # Crommitar arquivo
   1 - Git add* 
   2 - (tirar do modo stage) git commit -m "menssagem"
- 
+
+# Puchar aquivo da maquina 
+  1 - git remote add origin (link do github)
+  2 - git puch origin main
